@@ -24,5 +24,5 @@ As you can see above, the ````jazz```` executable accepts two arguments: the mus
 
 ## Modifying
 
-The blode events are defined in ````lib/listener.js```` in a method called ````process````.  The current set of blode events that the listener watches for are specific to SparkFun, but you can easily change them to fit your needs.  The ````jazz```` excecutable contains the event listeners that trigger the MIDI notes and chord advancement methods found in ````lib/progression.js````.
+The blode events are defined in ````lib/listener.js```` in a method called ````process````.  The current set of blode events that the listener watches for are specific to SparkFun, but you can easily change them to fit your needs.  The ````jazz```` excecutable contains the event listeners that trigger the MIDI notes and chord advancementd in ````lib/progression.js````.
 
